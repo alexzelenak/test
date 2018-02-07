@@ -1,4 +1,4 @@
-"Object","Close-Approach (CA) Date (TDB)YYYy-mmm-DD HH:MM ± D_HH:MM","CA DistanceNominal(LD/AU)","CA DistanceMinimum(LD/AU)","Vrelative(km/s)","Vinfinity(km/s)","Nsigma","H(mag)","ref","class"
+"Object","Close-Approach (CA) Date (TDB)YYyy-mmm-DD HH:MM ± D_HH:MM","CA DistanceNominal(LD/AU)","CA DistanceMinimum(LD/AU)","Vrelative(km/s)","Vinfinity(km/s)","Nsigma","H(mag)","ref","class"
 "(2016 YK)","2017-Jan-08 01:10 ±","13.53/0.03477","13.50/0.03469","9.83","9.83","834","23.7","11","APO*"
 "(2017 AF3)","2017-Jan-11 17:15 ±","15.06/0.03870","14.95/0.03841","9.20","9.19","245","25.2","2","APO*"
 "(2016 YC8)","2017-Jan-18 04:42 ±   00:01","9.43/0.02424","9.38/0.02411","6.64","6.62","568","24.6","6","APO*"
